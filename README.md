@@ -4,7 +4,7 @@
 
 I help enterprises in Latin America and North America adopt SaaS, cloud, and AI solutions, with a focus on API integrations across payments, AI, and CX platforms. 11+ years in presales and solution consulting at Visa, Whale Cloud, Avaya, and IFX Networks.
 
-🌐 **Online CV:** [edwin-torres-gutierrez.github.io](https://edwin-torres-gutierrez.github.io) · 📄 [Download CV (PDF)](https://edwin-torres-gutierrez.github.io/Edwin_Torres_Resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/edwin-torres-gutierrez)
+🌐 **Online CV:** [edwin-torres-gutierrez.github.io](https://edwin-torres-gutierrez.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/edwin-torres-gutierrez)
 
 ## Highlights
 
