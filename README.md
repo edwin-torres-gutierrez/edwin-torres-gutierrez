@@ -29,4 +29,4 @@ Microsoft Azure Fundamentals (AZ-900) · Oracle Cloud Infrastructure Foundations
 
 ## Let's connect
 
-Open to Solutions Engineer, Presales Engineer, and Solutions Consultant roles. Reach me on [LinkedIn](https://www.linkedin.com/in/edwin-torres-gutierrez) or at edwintorresguti@hotmail.com.
+Open to Solutions Engineer, Presales Engineer, and Solutions Consultant roles. Reach me on [LinkedIn](https://www.linkedin.com/in/edwin-torres-gutierrez).
